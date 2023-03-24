@@ -8,7 +8,7 @@ import MealReceipt from "./pages/MealReceipt";
 
 function App() {
     return (
-        <Router basename='/food-recipes'>
+        <Router basename='/food-receipts'>
             <Header/>
             <main className='container content'>
 
